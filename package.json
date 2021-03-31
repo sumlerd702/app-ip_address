@@ -18,5 +18,6 @@
   "homepage": "https://github.com/sumlerd702/app-ip_address#readme",
   "dependencies": {
     "ip-cidr": "^2.1.3"
-  }
+  },
+  "devDependencies": {}
 }
